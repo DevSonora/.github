@@ -1,4 +1,4 @@
-![Cover](https://github.com/DevSonora/.github/assets/22224438/2ef31b8a-2d70-4647-8060-a48596dd1b93)
+![Cover](https://raw.githubusercontent.com/DevSonora/resources/main/img/header.png)
 
 Somos una comunidad de desarrolladores y estudiantes amantes del open source y la programación. 
 
